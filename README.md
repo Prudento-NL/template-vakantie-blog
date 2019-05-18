@@ -5,6 +5,10 @@ Template for creating blogs for holidays.
 ### Maak een nieuwe repo en import de template files
 - Maak een nieuwe repo in GitHub zonder README en gitignore file
 - Import de code van de template met de quick setup
+  - Quick set up opent nadat je de nieuwe repo hebt gemaakt zonder readme en gitignore
+  - Onderaan staat import
+  - Kopieer en plak de link van de template
+  - Wacht totdat GitHub meldt _Importing complete!_
 - Clone de nieuwe repo naar lokaal  
   `git clone github-url-new-repo`
 
