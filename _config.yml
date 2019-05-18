@@ -1,0 +1,17 @@
+# basic options
+title: Vakantie MAAND JAAR - BESTEMMING
+author: Kees
+description: Blog van de vakantie van MAAND JAAR
+
+# URL to GitHub repo
+URL: "https://github.com/Prudento-NL/template-vakantie-blog.git"
+
+# URL to images folder at GitHub repo
+images: "https://prudento-nl.github.io/template-vakantie-blog/images"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+minima:
+  date_format: "%d-%m-%Y"
