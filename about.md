@@ -9,3 +9,7 @@ Deze site is speciaal aangemaakt om verslag te kunnen doen van de vakantie .....
 Plaats: [PLAATS](LINK)  
 Hotel: [HOTEL](LINK)  
 Camping: [CAMPING](LINK)
+
+**Uitrusting:**
+- Tent: Karsten 300 of Carp 220
+- Auto: Subaru XV
