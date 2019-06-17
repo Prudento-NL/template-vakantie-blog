@@ -9,10 +9,11 @@ Hier je tekst.
 - YEAR-MONTH-DAY-title.md
 -2011-12-31-new-years-eve-is-awesome.md
 
-Voor extra info zie de file style-guide.md
+Voor extra info zie de file style-guide.md  
 
-Links  
-[Description](http://example.com)
+[Links](http://example.com)  
 
-Images  
-![Description]({{ site.images }}/filenaam.jpg?raw=true)
+
+### *Topic coor images*  
+
+![Images]({{ site.images }}/filenaam.jpg?raw=true)
