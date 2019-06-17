@@ -14,6 +14,6 @@ Voor extra info zie de file style-guide.md
 [Links](http://example.com)  
 
 
-### *Topic coor images*  
+### *Topic images*  
 
 ![Images]({{ site.images }}/filenaam.jpg?raw=true)
