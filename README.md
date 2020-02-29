@@ -1,28 +1,20 @@
 # template-vakantie-blog
 Template for creating blogs for holidays.
 
-## Setup een nieuwe new_repo
-### Maak een nieuwe repo en import de template files
-- Maak een nieuwe repo in GitHub zonder README en gitignore file
-- Import de code van de template met de quick setup
-  - Quick set up opent nadat je de nieuwe repo hebt gemaakt zonder readme en gitignore
-  - Onderaan staat import
-  - Kopieer en plak de link van de template
-  - Wacht totdat GitHub meldt _Importing complete!_
-- Clone de nieuwe repo naar lokaal  
-  `git clone github-url-new-repo`
+## Setup een nieuwe repository
+### Maak een repository van de template
+- Navigeer naar de [Main page](https://github.com/Prudento-NL/template-vakantie-blog) van de repo
+- Klik op de groene button **Use this template**
+- Invullen **Repository name**  >> format yyyy-mm-omschrijving
+- Aanvinken **Public** >> kies Private als je (nog) niet wil publihsen
+- Invullen **Description** (optioneel)
+- Klik **Create repository from template**
 
-### Verwijder de history van de template
-  - Verwijder de .git folder  
-    `rm -rf .git`
-  - Creëer een nieuwe .git folder  
-    `git init`
-  - Stage de files en folders  
-    `git add .`  
-    `git commit -m "Initial commit"`
-  - Push naar de nieuwe new_repo  
-    `git remote add origin <github-url-new-repo>`  
-    `git push -u --force origin master`
+Het resultaat is een repo in GitHub zonder commit historie anders dan de initial commit.
+
+***Uitgebreide info op GitHub***
+- [Creating a repository from a template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+- [Setting repository visibility](https://help.github.com/en/github/administering-a-repository/setting-repository-visibility)
 
 ### Aanpassen files
 - .config.yml
