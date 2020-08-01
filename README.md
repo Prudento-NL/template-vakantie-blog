@@ -16,6 +16,12 @@ Het resultaat is een repo in GitHub zonder commit historie anders dan de initial
 - [Creating a repository from a template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 - [Setting repository visibility](https://help.github.com/en/github/administering-a-repository/setting-repository-visibility)
 
+### Clone de repo
+- Clone de nieuwe repo naar je PC om makkelijk te kunnen bewerken.
+  - Kopieer de link naar de repo
+  - Open een terminal in de **juiste** directory
+  - Run command `git clone github-url-new-repo`
+
 ### Aanpassen files
 - .config.yml
   - title
