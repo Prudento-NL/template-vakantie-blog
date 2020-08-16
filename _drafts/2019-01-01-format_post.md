@@ -11,9 +11,9 @@ Hier je tekst.
 
 Voor extra info zie de file style-guide.md  
 
-[Links](http://example.com)  
+[Beschrijving van de link](http://example.com)  
 
 
 ### *Topic images*  
 
-![Images]({{ site.images }}/filenaam.jpg?raw=true)
+![Beschrijving van het plaatje]({{ site.images }}/filenaam.jpg?raw=true)
