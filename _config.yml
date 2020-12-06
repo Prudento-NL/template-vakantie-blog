@@ -4,7 +4,8 @@ author: Kees
 description: Blog van de vakantie van MAAND JAAR
 
 # URL to GitHub repo
-URL: "https://github.com/Prudento-NL/template-vakantie-blog.git"
+baseurl: "/template-vakantie-blog" 
+url: "https://prudento-nl.github.io" 
 
 # URL to images folder at GitHub repo LET OP het format van de link met de PUNT!
 images: "https://prudento-nl.github.io/template-vakantie-blog/images"
