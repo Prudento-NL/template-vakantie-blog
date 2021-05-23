@@ -18,6 +18,7 @@ Het resultaat is een repo in GitHub zonder commit historie (alleen de initial co
 
 ### Clone de repo
 - Clone de nieuwe repo naar je PC om makkelijk te kunnen bewerken.
+  - Ga naar de tab _<> Code_ in Github en klik de groene button _Code_
   - Kopieer de link naar de repo
   - Open een terminal in de **juiste** directory
   - Run command `git clone github-url-new-repo`
