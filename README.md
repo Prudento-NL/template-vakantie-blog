@@ -29,9 +29,9 @@ Het resultaat is een repo in GitHub zonder commit historie (alleen de initial co
   - description
   - URL GitHub repo
   - URL folder location
-- README
-  - edit tekst
 - about.md
+  - edit tekst
+- README
   - edit tekst
 
 ### Aanwijzigen voor gebruik:
