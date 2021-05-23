@@ -39,3 +39,8 @@ Het resultaat is een repo in GitHub zonder commit historie (alleen de initial co
   - een template voor de posts
   - de style-guide met handige info
 - er staat een file in de folders _posts_ en _images_ om er voor te zorgen dat de folder in GitHub aanwezig is. De files kunnen verwijderd worden als er een post of image aan de betreffende folder is toegevoegd.
+
+### Tips:
+- Maak in de drafts-folder alvast de dagen aan voor je vakantie-blog
+- Voeg de site toe aan de index van de vakantie blogs van Prudento.nl
+- Clone de repo naar MrHyde op je smartphone
