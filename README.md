@@ -10,7 +10,7 @@ Template for creating blogs for holidays.
 - Invullen **Description** (optioneel)
 - Klik **Create repository from template**
 
-Het resultaat is een repo in GitHub zonder commit historie anders dan de initial commit.
+Het resultaat is een repo in GitHub zonder commit historie (alleen de initial commit voor het aanmaken van de repo).
 
 ***Uitgebreide info op GitHub***
 - [Creating a repository from a template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
