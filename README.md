@@ -42,5 +42,6 @@ Het resultaat is een repo in GitHub zonder commit historie (alleen de initial co
 
 ### Tips:
 - Maak in de drafts-folder alvast de dagen aan voor je vakantie-blog
+- Zet de hosting aan op GitHub om de site online te hebben
 - Voeg de site toe aan de index van de vakantie blogs van Prudento.nl
-- Clone de repo naar MrHyde op je smartphone
+- Clone de repo naar je website manager op je smartphone en tablet
