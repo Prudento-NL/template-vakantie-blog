@@ -6,7 +6,7 @@ Template for creating blogs for holidays.
 - Navigeer naar de [Main page](https://github.com/Prudento-NL/template-vakantie-blog) van de repo
 - Klik op de groene button **Use this template**
 - Invullen **Repository name**  >> format yyyy-mm-omschrijving
-- Aanvinken **Public** >> kies Private als je (nog) niet wil publihsen
+- Aanvinken **Public** >> kies Private als je (nog) niet wil publishen
 - Invullen **Description** (optioneel)
 - Klik **Create repository from template**
 
